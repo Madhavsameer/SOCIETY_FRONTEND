@@ -1,0 +1,33 @@
+/* AboutUs.css */
+.about-us {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .about-us h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .about-us p, .about-us ul {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  
+  .about-us h2 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+  }
+  
+  .about-us ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .about-us ul li {
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
+  
